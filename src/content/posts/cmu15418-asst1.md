@@ -1,6 +1,6 @@
 ---
 title: cmu15418-asst1
-description: asst111111111111111111111111
+description: asst1
 pubDate: 2024-12-30
 ---
 

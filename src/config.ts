@@ -1,12 +1,12 @@
 export const siteConfig: SiteConfig = {
-    title: "Hi! Jazee",
+    title: "Hi! Nothiny",
     language: "zh",
-    description: "Jazee's personal blog. Powered by Astro Blog Theme Blur.",
-    keywords: "Jazee, blog, personal blog, Astro, Astro Blog Theme Blur",
-    author: "Jazee",
+    description: "Nothiny's personal blog. Powered by Astro Blog Theme Blur.",
+    keywords: "Nothiny, blog, personal blog, Astro, Astro Blog Theme Blur",
+    author: "Nothiny",
     avatar: "/avatar.png",
     favicon: "/favicon.png",
-    site: "https://jaze.top",
+    site: "https://nothiny.github.io",
 
     page_size: 10,
 }
@@ -33,12 +33,12 @@ export const socialLinks: SocialLink[] = [
     {
         label: 'GitHub',
         icon: 'mdi-github',
-        url: 'https://github.com/Jazee6'
+        url: 'https://github.com/Nothiny'
     },
     {
         label: 'Email',
         icon: 'material-symbols:mail-rounded',
-        url: 'mailto:jazee@jaze.top'
+        url: 'mailto:eliaukz07@gmail.com'
     }
 ]
 
